@@ -14,7 +14,6 @@
  - A folha de pagamento é rodada todo dia e deve pagar os empregados cujos salários vencem  naquele dia. O sistema receberá a data até a qual o pagamento deve ser feito e calculará o  pagamento para cada empregado desde a última vez em que este foi pago.
 
 ## Bad Smells
--------
 
  - Duplicated Code
  - Long parameter list
